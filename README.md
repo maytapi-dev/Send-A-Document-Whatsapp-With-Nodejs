@@ -9,6 +9,16 @@ Easily send document messages via WhatsApp using Maytapi's robust API.
 - Add optional captions
 - Clean error handling and Axios-based requests
 
+  ## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
+
 ## 📦 Installation
 
 ```bash
